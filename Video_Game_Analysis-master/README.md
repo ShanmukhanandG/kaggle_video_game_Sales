@@ -2,7 +2,7 @@
 
 ## Overview
 
-The motivation for this project came from opportunity and curiosity.  I have played video games for most of my life and, between my friends and I, have played hours on every system that has been available in the US.  When I found this dataset on Kaggle, it seemed interesting to me since I could answer some questions I’ve had while playing video games.  The four (plus one out of general curiosity after exploring the data some more) questions I set out to answer were the following:
+The motivation for this project came from opportunity and curiosity.  I have played video games for most of my life and, between my friends and I, have played hours on every system that has been available in the market.  When I found this dataset on Kaggle, it seemed interesting to me since I could answer some questions I’ve had while playing video games.  The four (plus one out of general curiosity after exploring the data some more) questions I set out to answer were the following:
 
 
 1.	Who is the most acclaimed game developer by critics/users?
